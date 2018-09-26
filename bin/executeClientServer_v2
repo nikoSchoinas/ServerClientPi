@@ -1,0 +1,7 @@
+#!/bin/bash
+java Server &
+sleep 0.1
+java Client &
+java Client &
+java Client &
+java Client
